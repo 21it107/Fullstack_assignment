@@ -11,7 +11,7 @@
 2. **Backend:**
    - Go to `backend` directory using **cd backend**.
    - Write command **npm i**.
-   - run server using ** node server.js**.
+   - run server using **node server.js**.
 
      
 3. **Frontend:**
